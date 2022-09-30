@@ -1,0 +1,1451 @@
+[
+  {
+    "guid": "89c34875-620c-4566-bfb4-d8adc19292cb",
+    "name": "FOSSIEL",
+    "date": "2014-02-19T11:34:41 -04:00",
+    "count": 22,
+    "distance": 9771
+  },
+  {
+    "guid": "c304c553-7ecd-4533-8b63-e22d884a2a34",
+    "name": "KONGENE",
+    "date": "2019-04-08T02:49:38 -03:00",
+    "count": 92,
+    "distance": 8518
+  },
+  {
+    "guid": "14c5ae9e-2150-4b3a-9a28-c95c5bae2949",
+    "name": "XEREX",
+    "date": "2016-01-28T06:46:21 -03:00",
+    "count": 85,
+    "distance": 9321
+  },
+  {
+    "guid": "d2137590-c166-48a7-ab88-fb523f2d70be",
+    "name": "PRINTSPAN",
+    "date": "2016-09-07T03:23:50 -03:00",
+    "count": 86,
+    "distance": 2320
+  },
+  {
+    "guid": "2eea7466-3ac3-4331-8890-7e9b45283e30",
+    "name": "GEEKMOSIS",
+    "date": "2020-01-03T03:09:47 -03:00",
+    "count": 78,
+    "distance": 6631
+  },
+  {
+    "guid": "9da96b82-f9fc-4af5-b2c6-83837ca3337f",
+    "name": "ZENTIME",
+    "date": "2017-10-20T04:36:01 -03:00",
+    "count": 56,
+    "distance": 9227
+  },
+  {
+    "guid": "17f149dc-5e1e-463f-9457-9db699c8efce",
+    "name": "MANTRIX",
+    "date": "2020-07-01T02:36:38 -03:00",
+    "count": 44,
+    "distance": 9049
+  },
+  {
+    "guid": "b9bbc940-6472-4cb7-b801-84812fb5c4f2",
+    "name": "VIXO",
+    "date": "2017-04-19T03:37:28 -03:00",
+    "count": 9,
+    "distance": 9255
+  },
+  {
+    "guid": "6acb095d-03de-4ee4-8039-01978d2dccd3",
+    "name": "OBLIQ",
+    "date": "2014-09-14T11:14:06 -04:00",
+    "count": 88,
+    "distance": 565
+  },
+  {
+    "guid": "1fe5af57-7d20-4686-a64a-cb1f16205654",
+    "name": "CYTREX",
+    "date": "2019-08-08T05:57:39 -03:00",
+    "count": 86,
+    "distance": 9664
+  },
+  {
+    "guid": "fd01d039-c8cf-4bf1-b84d-c1b405055df2",
+    "name": "SPLINX",
+    "date": "2020-01-10T08:13:06 -03:00",
+    "count": 67,
+    "distance": 8828
+  },
+  {
+    "guid": "42f000ac-44ad-4863-b82a-4c4546072555",
+    "name": "VALPREAL",
+    "date": "2021-03-27T07:00:36 -03:00",
+    "count": 10,
+    "distance": 8223
+  },
+  {
+    "guid": "cc97feed-2e35-45fd-9c30-aa48d95c9e1b",
+    "name": "IRACK",
+    "date": "2016-08-21T02:01:48 -03:00",
+    "count": 37,
+    "distance": 698
+  },
+  {
+    "guid": "2a067c38-27c3-4c24-91d5-d430c26ca3bd",
+    "name": "PROVIDCO",
+    "date": "2017-01-26T11:34:26 -03:00",
+    "count": 4,
+    "distance": 9546
+  },
+  {
+    "guid": "80845518-b9d4-4758-b67d-8c965994b34d",
+    "name": "SURELOGIC",
+    "date": "2021-08-11T10:35:59 -03:00",
+    "count": 41,
+    "distance": 8754
+  },
+  {
+    "guid": "6f002a3a-26c0-4134-aa26-72068dad5eeb",
+    "name": "BILLMED",
+    "date": "2015-12-02T10:58:28 -03:00",
+    "count": 3,
+    "distance": 3637
+  },
+  {
+    "guid": "9218009c-8fbd-461e-a059-00c455664939",
+    "name": "KIGGLE",
+    "date": "2021-06-19T10:55:03 -03:00",
+    "count": 66,
+    "distance": 2119
+  },
+  {
+    "guid": "99b11e63-9741-499a-9b7b-ce017a560693",
+    "name": "CALLFLEX",
+    "date": "2017-02-27T01:15:31 -03:00",
+    "count": 79,
+    "distance": 3862
+  },
+  {
+    "guid": "9e1f6ac7-d702-4bfc-a3a6-4bfbe1de9842",
+    "name": "ZILLAR",
+    "date": "2017-04-14T09:01:01 -03:00",
+    "count": 43,
+    "distance": 4008
+  },
+  {
+    "guid": "5e76af2f-45b6-4bd1-bec8-3aa232cddde9",
+    "name": "ENERVATE",
+    "date": "2014-09-25T02:19:35 -04:00",
+    "count": 69,
+    "distance": 6549
+  },
+  {
+    "guid": "c9440b9a-98af-4cfe-8bac-c460c12789e7",
+    "name": "ISODRIVE",
+    "date": "2021-09-23T03:22:28 -03:00",
+    "count": 50,
+    "distance": 9413
+  },
+  {
+    "guid": "d63104eb-3133-4a93-b291-c4d2f5b52205",
+    "name": "MANUFACT",
+    "date": "2018-06-04T04:16:51 -03:00",
+    "count": 15,
+    "distance": 6872
+  },
+  {
+    "guid": "eb2e97af-c22b-4fa2-937c-512a9ade880b",
+    "name": "QUOTEZART",
+    "date": "2019-06-23T11:08:13 -03:00",
+    "count": 44,
+    "distance": 1353
+  },
+  {
+    "guid": "65700a63-dcf5-44c3-8d5d-90156fc49361",
+    "name": "CODACT",
+    "date": "2021-04-25T08:56:37 -03:00",
+    "count": 61,
+    "distance": 8767
+  },
+  {
+    "guid": "5fdbbb06-3514-4888-ae3e-ca0c769f18e2",
+    "name": "GEEKNET",
+    "date": "2017-01-08T07:33:59 -03:00",
+    "count": 90,
+    "distance": 3671
+  },
+  {
+    "guid": "c8d470ef-ae00-447f-8584-40afed6d243f",
+    "name": "VISUALIX",
+    "date": "2018-06-24T10:01:29 -03:00",
+    "count": 87,
+    "distance": 6047
+  },
+  {
+    "guid": "2d4a8ed9-7c24-4754-894d-a9b8d2641be2",
+    "name": "IDEGO",
+    "date": "2022-06-02T10:48:02 -03:00",
+    "count": 30,
+    "distance": 6566
+  },
+  {
+    "guid": "804409df-e142-4ee9-aeac-bff0b1be8ab1",
+    "name": "MAGNEMO",
+    "date": "2022-01-31T05:17:22 -03:00",
+    "count": 4,
+    "distance": 6629
+  },
+  {
+    "guid": "e06555b7-a1f0-4b3d-b2b1-b90d1a1d4ac7",
+    "name": "XUMONK",
+    "date": "2016-07-04T12:38:01 -03:00",
+    "count": 78,
+    "distance": 7064
+  },
+  {
+    "guid": "606cd445-ddbb-4779-8a93-b8b935f2bddc",
+    "name": "LUDAK",
+    "date": "2014-05-23T10:27:51 -04:00",
+    "count": 42,
+    "distance": 2804
+  },
+  {
+    "guid": "cadcea9c-1888-4183-baaf-c71eeccb94e5",
+    "name": "ZUVY",
+    "date": "2018-02-20T09:44:34 -03:00",
+    "count": 70,
+    "distance": 9134
+  },
+  {
+    "guid": "ec522c2e-1865-431d-9e4e-bdad03fb86b8",
+    "name": "SQUISH",
+    "date": "2021-07-06T04:49:13 -03:00",
+    "count": 62,
+    "distance": 9397
+  },
+  {
+    "guid": "b4f9be62-16fd-4851-864a-e00a749e2b10",
+    "name": "HANDSHAKE",
+    "date": "2016-03-21T10:26:07 -03:00",
+    "count": 48,
+    "distance": 3162
+  },
+  {
+    "guid": "7ceb7d67-f808-4672-af91-34d856e58628",
+    "name": "UXMOX",
+    "date": "2016-09-17T10:03:35 -03:00",
+    "count": 38,
+    "distance": 2906
+  },
+  {
+    "guid": "cea3514b-948a-4519-94cc-2a84124db523",
+    "name": "STOCKPOST",
+    "date": "2017-05-11T12:09:44 -03:00",
+    "count": 75,
+    "distance": 2486
+  },
+  {
+    "guid": "89c51acd-6288-417e-bd1b-0bac78399c8e",
+    "name": "INEAR",
+    "date": "2018-09-29T11:06:28 -03:00",
+    "count": 45,
+    "distance": 6776
+  },
+  {
+    "guid": "534c6f70-b9d8-4abb-b8cc-4b56b8ac3f77",
+    "name": "LUXURIA",
+    "date": "2014-12-25T06:58:18 -03:00",
+    "count": 74,
+    "distance": 1088
+  },
+  {
+    "guid": "0070701e-48d7-48f6-80d1-8a8d9046c7e0",
+    "name": "TERRAGEN",
+    "date": "2014-09-21T11:27:24 -04:00",
+    "count": 7,
+    "distance": 4642
+  },
+  {
+    "guid": "10689745-a76e-4239-9bb3-b3b4a05680c8",
+    "name": "ORBAXTER",
+    "date": "2017-12-09T02:17:14 -03:00",
+    "count": 87,
+    "distance": 2742
+  },
+  {
+    "guid": "31e993f5-58c2-4bed-a74d-0cf8936d44b9",
+    "name": "CONCILITY",
+    "date": "2016-04-09T07:15:04 -03:00",
+    "count": 31,
+    "distance": 838
+  },
+  {
+    "guid": "1688abb9-8c43-467c-8a07-96d196c42759",
+    "name": "VICON",
+    "date": "2022-07-30T06:40:26 -03:00",
+    "count": 90,
+    "distance": 1186
+  },
+  {
+    "guid": "5179ba3a-d30a-4230-a33f-2dc6fca1b4e6",
+    "name": "EMERGENT",
+    "date": "2016-01-26T12:01:29 -03:00",
+    "count": 45,
+    "distance": 8331
+  },
+  {
+    "guid": "0d4ea423-7b44-4f4c-8585-58ea6c2f0cfb",
+    "name": "COMTRAK",
+    "date": "2022-04-24T02:09:47 -03:00",
+    "count": 84,
+    "distance": 2807
+  },
+  {
+    "guid": "64710cb2-71a0-4274-ab15-94e40ee3cb5b",
+    "name": "GLUID",
+    "date": "2016-07-28T09:16:43 -03:00",
+    "count": 36,
+    "distance": 8459
+  },
+  {
+    "guid": "53e28f4f-b5cc-4d3b-a2eb-b975c701d643",
+    "name": "PORTICO",
+    "date": "2015-06-01T09:33:48 -03:00",
+    "count": 6,
+    "distance": 290
+  },
+  {
+    "guid": "38e63bce-000c-40cd-b49d-4802125725f7",
+    "name": "ESCENTA",
+    "date": "2015-03-15T03:35:39 -03:00",
+    "count": 86,
+    "distance": 9882
+  },
+  {
+    "guid": "368eacae-1b2f-4357-b5d1-d13a1fa9b347",
+    "name": "SKYPLEX",
+    "date": "2017-08-05T03:52:50 -03:00",
+    "count": 75,
+    "distance": 7996
+  },
+  {
+    "guid": "a6450847-3991-4104-98d3-f897b945497f",
+    "name": "ONTALITY",
+    "date": "2018-02-03T03:10:44 -03:00",
+    "count": 14,
+    "distance": 4180
+  },
+  {
+    "guid": "222b530e-f364-4eec-9628-1518529505a1",
+    "name": "ORBIN",
+    "date": "2017-02-12T01:41:11 -03:00",
+    "count": 74,
+    "distance": 4124
+  },
+  {
+    "guid": "6e46ab32-bb2c-4fa6-a864-4c46b60a90db",
+    "name": "ENAUT",
+    "date": "2015-10-25T01:23:54 -03:00",
+    "count": 69,
+    "distance": 8410
+  },
+  {
+    "guid": "838f9597-2a40-40b7-b3e5-680bcda8bf18",
+    "name": "GENMOM",
+    "date": "2021-10-30T04:32:21 -03:00",
+    "count": 89,
+    "distance": 4385
+  },
+  {
+    "guid": "e79a33cc-0103-470a-8aa4-ca04aa1cff06",
+    "name": "WAZZU",
+    "date": "2015-07-18T11:40:03 -03:00",
+    "count": 22,
+    "distance": 110
+  },
+  {
+    "guid": "a069a906-2487-4676-b169-579990c72cd3",
+    "name": "REMOTION",
+    "date": "2020-07-18T11:13:35 -03:00",
+    "count": 96,
+    "distance": 297
+  },
+  {
+    "guid": "636c90d0-494a-4c79-b3e1-92ccbb4c0737",
+    "name": "ACCRUEX",
+    "date": "2022-05-08T04:34:22 -03:00",
+    "count": 45,
+    "distance": 6294
+  },
+  {
+    "guid": "58994091-0892-4ca4-82cd-7c55c1645a77",
+    "name": "COREPAN",
+    "date": "2015-09-22T12:14:44 -03:00",
+    "count": 43,
+    "distance": 5139
+  },
+  {
+    "guid": "50f6b9ff-5eb8-4e14-a376-aec754aa2589",
+    "name": "POLARIA",
+    "date": "2014-12-03T03:07:20 -03:00",
+    "count": 96,
+    "distance": 4479
+  },
+  {
+    "guid": "a1f64fee-586b-4d2b-9de3-ba44bbe36ada",
+    "name": "WATERBABY",
+    "date": "2014-04-08T12:42:58 -04:00",
+    "count": 79,
+    "distance": 3169
+  },
+  {
+    "guid": "7aa9b185-d64f-406f-8ddc-a5c13ea70c95",
+    "name": "ISOSURE",
+    "date": "2016-03-15T03:34:38 -03:00",
+    "count": 87,
+    "distance": 1630
+  },
+  {
+    "guid": "b0b94bab-7efe-48ea-b91f-b1c7d332c693",
+    "name": "ISOTERNIA",
+    "date": "2017-04-10T05:03:26 -03:00",
+    "count": 42,
+    "distance": 5157
+  },
+  {
+    "guid": "061c81e0-b933-4471-91ca-e359e3d1ce2b",
+    "name": "CINASTER",
+    "date": "2021-04-01T06:04:55 -03:00",
+    "count": 39,
+    "distance": 1029
+  },
+  {
+    "guid": "95845dc2-4b77-49db-bc3d-23349be8c991",
+    "name": "RODEMCO",
+    "date": "2020-07-11T01:44:48 -03:00",
+    "count": 52,
+    "distance": 4726
+  },
+  {
+    "guid": "ca890d4b-8078-4353-8db5-94200c88c371",
+    "name": "VISALIA",
+    "date": "2019-04-05T06:45:31 -03:00",
+    "count": 37,
+    "distance": 8874
+  },
+  {
+    "guid": "c0ef754b-1a16-42f0-a2da-a331fb68f4b1",
+    "name": "DANCITY",
+    "date": "2017-09-07T12:48:54 -03:00",
+    "count": 13,
+    "distance": 6597
+  },
+  {
+    "guid": "67ceb391-2274-4b45-a60d-da04e7f77650",
+    "name": "GYNKO",
+    "date": "2014-01-22T01:23:23 -04:00",
+    "count": 49,
+    "distance": 8845
+  },
+  {
+    "guid": "ceda611d-c1b1-4cc3-a3cf-2d15ae307316",
+    "name": "MEDCOM",
+    "date": "2022-07-16T04:43:27 -03:00",
+    "count": 11,
+    "distance": 9835
+  },
+  {
+    "guid": "ed39e909-33f3-4f04-a607-3fb6d952e95a",
+    "name": "DOGNOST",
+    "date": "2019-02-26T03:58:31 -03:00",
+    "count": 6,
+    "distance": 6125
+  },
+  {
+    "guid": "10dc1fe6-dede-4136-befd-e537042bd6c1",
+    "name": "ROCKABYE",
+    "date": "2022-03-18T09:35:30 -03:00",
+    "count": 37,
+    "distance": 4614
+  },
+  {
+    "guid": "44e99962-c2fb-4a7a-b925-4b58f87923f6",
+    "name": "ZOINAGE",
+    "date": "2021-10-31T01:00:30 -03:00",
+    "count": 30,
+    "distance": 4210
+  },
+  {
+    "guid": "d44f2735-da66-4c89-88c3-9976ed3e85b0",
+    "name": "SUREPLEX",
+    "date": "2017-08-25T02:41:22 -03:00",
+    "count": 77,
+    "distance": 255
+  },
+  {
+    "guid": "c716c8fb-95e0-4b6a-8eaa-002b2559cff0",
+    "name": "HAWKSTER",
+    "date": "2021-10-25T08:30:38 -03:00",
+    "count": 82,
+    "distance": 4409
+  },
+  {
+    "guid": "8053b380-2329-44ac-a0de-b1c3330003a8",
+    "name": "MANTRO",
+    "date": "2016-05-28T11:39:08 -03:00",
+    "count": 53,
+    "distance": 5481
+  },
+  {
+    "guid": "e812fb33-d985-4c21-97b8-303f54d75f27",
+    "name": "QUAREX",
+    "date": "2015-04-13T03:50:40 -03:00",
+    "count": 72,
+    "distance": 5878
+  },
+  {
+    "guid": "fe523b0a-a7cb-4f1b-9431-4315a94c953c",
+    "name": "CYTREK",
+    "date": "2016-02-03T10:27:08 -03:00",
+    "count": 76,
+    "distance": 168
+  },
+  {
+    "guid": "43ae85aa-3131-4682-a1ec-a97543e1f9d9",
+    "name": "NURALI",
+    "date": "2022-01-05T10:45:41 -03:00",
+    "count": 32,
+    "distance": 8332
+  },
+  {
+    "guid": "989e773f-fab4-4a08-833f-9248c728635a",
+    "name": "BLEENDOT",
+    "date": "2018-07-21T11:20:12 -03:00",
+    "count": 93,
+    "distance": 3465
+  },
+  {
+    "guid": "e354ec78-d235-4428-bd8d-f9bbf5035681",
+    "name": "FUTURITY",
+    "date": "2014-01-19T03:56:03 -04:00",
+    "count": 30,
+    "distance": 155
+  },
+  {
+    "guid": "398383fe-bc9f-4b1f-b1f8-d0135eebd5a6",
+    "name": "XSPORTS",
+    "date": "2019-11-20T05:20:24 -03:00",
+    "count": 1,
+    "distance": 6823
+  },
+  {
+    "guid": "b64148a2-b555-4e1f-93bf-544185f2e86b",
+    "name": "SONGLINES",
+    "date": "2017-09-02T09:10:05 -03:00",
+    "count": 94,
+    "distance": 6720
+  },
+  {
+    "guid": "bc07cf9f-9cdc-4eee-9aa4-6a348286b43e",
+    "name": "POLARAX",
+    "date": "2019-12-28T09:57:15 -03:00",
+    "count": 80,
+    "distance": 3934
+  },
+  {
+    "guid": "c176972f-93b7-42b5-b465-832575b2b6d3",
+    "name": "BUZZOPIA",
+    "date": "2019-10-22T07:38:04 -03:00",
+    "count": 77,
+    "distance": 2228
+  },
+  {
+    "guid": "8d256471-b6c9-4eae-9505-ba5666dfdf00",
+    "name": "SOFTMICRO",
+    "date": "2022-02-06T08:27:14 -03:00",
+    "count": 63,
+    "distance": 1959
+  },
+  {
+    "guid": "7c8abe04-2040-4ed6-aad2-7e9169f193ac",
+    "name": "KLUGGER",
+    "date": "2015-06-17T11:28:38 -03:00",
+    "count": 99,
+    "distance": 7671
+  },
+  {
+    "guid": "8c569252-db90-4ac1-bb20-ec15779edfd1",
+    "name": "ORBALIX",
+    "date": "2015-08-08T05:01:01 -03:00",
+    "count": 24,
+    "distance": 9430
+  },
+  {
+    "guid": "985be080-831d-4cd6-a98e-3e3e60cb944f",
+    "name": "EXPOSA",
+    "date": "2020-09-07T11:39:31 -03:00",
+    "count": 61,
+    "distance": 6101
+  },
+  {
+    "guid": "2dded833-d294-4e72-a31f-86f8f065ce27",
+    "name": "ENJOLA",
+    "date": "2017-08-20T04:13:46 -03:00",
+    "count": 90,
+    "distance": 5145
+  },
+  {
+    "guid": "46ca669d-8e42-44e0-8268-0335c94294e3",
+    "name": "CODAX",
+    "date": "2018-11-08T06:48:00 -03:00",
+    "count": 62,
+    "distance": 850
+  },
+  {
+    "guid": "f35e4b09-8ce6-4d9e-9d2b-c4e20b22cab5",
+    "name": "DYMI",
+    "date": "2014-07-07T10:01:37 -04:00",
+    "count": 90,
+    "distance": 8643
+  },
+  {
+    "guid": "6b73d080-7c24-490c-b3e1-891d0bee19eb",
+    "name": "ARCTIQ",
+    "date": "2019-02-01T06:21:49 -03:00",
+    "count": 67,
+    "distance": 9729
+  },
+  {
+    "guid": "5ef6cf4a-559f-4752-8408-618d6e773fae",
+    "name": "XIIX",
+    "date": "2019-11-26T06:47:08 -03:00",
+    "count": 45,
+    "distance": 1311
+  },
+  {
+    "guid": "05930454-d773-4dfd-9c55-c96a8134d3dc",
+    "name": "EQUICOM",
+    "date": "2022-03-27T12:17:36 -03:00",
+    "count": 13,
+    "distance": 8177
+  },
+  {
+    "guid": "3804ce15-5055-453b-9262-92d0e0eeea77",
+    "name": "ZAGGLE",
+    "date": "2019-04-29T03:11:49 -03:00",
+    "count": 26,
+    "distance": 3594
+  },
+  {
+    "guid": "23a06f90-661b-4c53-9cbd-5ce485abb21b",
+    "name": "SLUMBERIA",
+    "date": "2015-12-09T04:27:21 -03:00",
+    "count": 17,
+    "distance": 1043
+  },
+  {
+    "guid": "e3677b67-b334-4b62-8b8f-9895234c24a2",
+    "name": "TERRAGO",
+    "date": "2020-01-11T04:23:31 -03:00",
+    "count": 36,
+    "distance": 4787
+  },
+  {
+    "guid": "aa165b8c-88c5-4169-8027-9e90e00cfa9e",
+    "name": "PAWNAGRA",
+    "date": "2021-03-23T07:16:48 -03:00",
+    "count": 28,
+    "distance": 9926
+  },
+  {
+    "guid": "8c248006-fedd-42b6-811e-f045ce862fab",
+    "name": "ISOLOGIX",
+    "date": "2017-08-18T07:02:06 -03:00",
+    "count": 13,
+    "distance": 7707
+  },
+  {
+    "guid": "6358690a-bc50-4cfd-afaf-624d881e81ab",
+    "name": "ENVIRE",
+    "date": "2017-03-24T08:00:59 -03:00",
+    "count": 66,
+    "distance": 7093
+  },
+  {
+    "guid": "4f394bed-4eff-4823-9196-aa6dacf06235",
+    "name": "SEQUITUR",
+    "date": "2018-10-22T10:06:42 -03:00",
+    "count": 6,
+    "distance": 1087
+  },
+  {
+    "guid": "c594db5a-8d16-42e1-b5c0-729ab774b233",
+    "name": "WARETEL",
+    "date": "2018-08-08T10:28:08 -03:00",
+    "count": 82,
+    "distance": 8927
+  },
+  {
+    "guid": "ff9150cf-1629-4d8e-912e-5e47bcc96c81",
+    "name": "ELENTRIX",
+    "date": "2014-06-27T05:59:04 -04:00",
+    "count": 90,
+    "distance": 4704
+  },
+  {
+    "guid": "bd76ec99-f995-49cc-b885-ec7bc9dbaf07",
+    "name": "AUTOMON",
+    "date": "2020-04-04T06:00:52 -03:00",
+    "count": 46,
+    "distance": 8376
+  },
+  {
+    "guid": "52a0dfd8-eab7-479d-9ba2-0d0aba17e165",
+    "name": "NIQUENT",
+    "date": "2019-11-07T07:25:01 -03:00",
+    "count": 43,
+    "distance": 7770
+  },
+  {
+    "guid": "e730482f-c609-49da-88f4-0da60af82ea2",
+    "name": "GOLISTIC",
+    "date": "2022-05-08T12:56:27 -03:00",
+    "count": 20,
+    "distance": 6129
+  },
+  {
+    "guid": "bc116146-02e9-4dc5-8ceb-f14c4899620b",
+    "name": "DUFLEX",
+    "date": "2021-04-27T10:16:05 -03:00",
+    "count": 27,
+    "distance": 211
+  },
+  {
+    "guid": "9cf5b98f-9012-4a6a-860a-95a29c9e249a",
+    "name": "NETROPIC",
+    "date": "2014-12-04T03:55:20 -03:00",
+    "count": 89,
+    "distance": 696
+  },
+  {
+    "guid": "d06e1791-dd8e-4bb4-9238-955712207f94",
+    "name": "SURETECH",
+    "date": "2020-04-03T12:52:50 -03:00",
+    "count": 12,
+    "distance": 3604
+  },
+  {
+    "guid": "c8f29033-1538-4d7c-9a5c-7f2c93c0d602",
+    "name": "EDECINE",
+    "date": "2015-07-17T03:46:18 -03:00",
+    "count": 37,
+    "distance": 9150
+  },
+  {
+    "guid": "cd2bc4fe-5c1e-4707-bb7c-bc0b2f5e7d3e",
+    "name": "ENORMO",
+    "date": "2017-10-01T04:15:53 -03:00",
+    "count": 28,
+    "distance": 9250
+  },
+  {
+    "guid": "24708b67-635e-4d19-a07b-3557fe0efb3a",
+    "name": "ZANYMAX",
+    "date": "2015-08-18T02:20:19 -03:00",
+    "count": 81,
+    "distance": 8215
+  },
+  {
+    "guid": "77fed2a9-6cbc-470d-aba9-4b98c3b0d591",
+    "name": "COMCUR",
+    "date": "2020-04-05T08:36:33 -03:00",
+    "count": 53,
+    "distance": 3330
+  },
+  {
+    "guid": "3d0f042d-5b0e-4b03-8cb8-6cb6119eaa9f",
+    "name": "SUNCLIPSE",
+    "date": "2017-01-02T07:37:15 -03:00",
+    "count": 35,
+    "distance": 7780
+  },
+  {
+    "guid": "ccbacf4f-0955-4ffb-b480-8d650faa0e13",
+    "name": "EQUITAX",
+    "date": "2015-01-13T01:58:51 -03:00",
+    "count": 76,
+    "distance": 1886
+  },
+  {
+    "guid": "643f1aaf-32e2-4f9d-8218-43172821306d",
+    "name": "FUTURIS",
+    "date": "2022-03-26T06:58:42 -03:00",
+    "count": 4,
+    "distance": 6519
+  },
+  {
+    "guid": "731edcda-91d6-4488-9989-aac9b15c81f8",
+    "name": "ECOSYS",
+    "date": "2021-12-26T07:32:30 -03:00",
+    "count": 89,
+    "distance": 9247
+  },
+  {
+    "guid": "1899730a-dbc6-46c3-891d-57a0e28a6209",
+    "name": "BUZZWORKS",
+    "date": "2017-08-19T11:40:04 -03:00",
+    "count": 23,
+    "distance": 6484
+  },
+  {
+    "guid": "30508dfa-5bbe-4a5b-b2ec-f97505c2cbc5",
+    "name": "TALKALOT",
+    "date": "2019-08-21T08:03:00 -03:00",
+    "count": 62,
+    "distance": 3221
+  },
+  {
+    "guid": "7f242b72-8d0c-4781-87c2-aa143b503aa2",
+    "name": "WEBIOTIC",
+    "date": "2021-12-15T08:43:18 -03:00",
+    "count": 68,
+    "distance": 8199
+  },
+  {
+    "guid": "93b257b3-445a-47de-bd54-5e05304a72bb",
+    "name": "AVIT",
+    "date": "2021-09-25T08:51:07 -03:00",
+    "count": 98,
+    "distance": 1157
+  },
+  {
+    "guid": "9978dea1-89e5-4f79-be5d-f6a7a2f02aca",
+    "name": "IMMUNICS",
+    "date": "2018-10-30T01:54:10 -03:00",
+    "count": 87,
+    "distance": 5933
+  },
+  {
+    "guid": "7919ac02-40d1-4b90-bed0-c55cabf8d07c",
+    "name": "OPTICOM",
+    "date": "2022-01-18T07:55:55 -03:00",
+    "count": 28,
+    "distance": 4078
+  },
+  {
+    "guid": "02388547-c87d-48be-a48a-d2681118791c",
+    "name": "EXOSPACE",
+    "date": "2019-07-19T07:17:30 -03:00",
+    "count": 44,
+    "distance": 9048
+  },
+  {
+    "guid": "e3724a77-188e-4f04-ac84-4d4698a9aaa7",
+    "name": "BLUEGRAIN",
+    "date": "2014-09-23T09:03:40 -04:00",
+    "count": 59,
+    "distance": 2984
+  },
+  {
+    "guid": "05718bf8-e016-45e3-9488-185679696ddc",
+    "name": "COMBOGEN",
+    "date": "2018-03-31T06:33:57 -03:00",
+    "count": 96,
+    "distance": 4947
+  },
+  {
+    "guid": "f2bbe53c-2ea1-4850-8651-1e266eb42ae4",
+    "name": "BIOLIVE",
+    "date": "2021-09-06T09:46:24 -03:00",
+    "count": 75,
+    "distance": 434
+  },
+  {
+    "guid": "dbd3a55c-063e-49aa-be19-a9fcf4914ed1",
+    "name": "RONELON",
+    "date": "2021-07-29T08:10:00 -03:00",
+    "count": 68,
+    "distance": 5195
+  },
+  {
+    "guid": "f1d688f4-5472-48a9-acde-b05c5cc98881",
+    "name": "OVOLO",
+    "date": "2015-01-14T03:38:03 -03:00",
+    "count": 29,
+    "distance": 2713
+  },
+  {
+    "guid": "146d0763-850d-4089-ac91-4de30f8dc5ef",
+    "name": "NETPLODE",
+    "date": "2014-11-16T01:53:01 -03:00",
+    "count": 57,
+    "distance": 4124
+  },
+  {
+    "guid": "96ad65d3-f16e-4ea2-9efb-c75db58fc8f4",
+    "name": "MARKETOID",
+    "date": "2015-08-27T06:17:18 -03:00",
+    "count": 2,
+    "distance": 6282
+  },
+  {
+    "guid": "3e870fe7-bf71-4053-87b2-f0a3917fb3a8",
+    "name": "QIMONK",
+    "date": "2021-07-27T05:17:39 -03:00",
+    "count": 67,
+    "distance": 205
+  },
+  {
+    "guid": "c220ce0e-0db3-4a00-93a4-9d0cdac349a3",
+    "name": "ZILLA",
+    "date": "2018-01-22T08:13:51 -03:00",
+    "count": 41,
+    "distance": 5078
+  },
+  {
+    "guid": "845726b6-92fd-46f6-8eae-a5aaba9fb2e6",
+    "name": "OVERFORK",
+    "date": "2018-06-14T09:37:05 -03:00",
+    "count": 18,
+    "distance": 7060
+  },
+  {
+    "guid": "fe49c2fd-0878-45b6-9a33-33ac493a6130",
+    "name": "PLASMOS",
+    "date": "2015-06-16T04:28:47 -03:00",
+    "count": 20,
+    "distance": 5496
+  },
+  {
+    "guid": "cbfb820f-05af-4922-9e00-fa2b1285a86b",
+    "name": "ZOXY",
+    "date": "2021-11-19T08:20:17 -03:00",
+    "count": 91,
+    "distance": 7527
+  },
+  {
+    "guid": "5838dd68-84a8-4f15-b7bd-185895fe2e1f",
+    "name": "ZERBINA",
+    "date": "2017-07-09T09:48:33 -03:00",
+    "count": 30,
+    "distance": 84
+  },
+  {
+    "guid": "3e3c2c10-2795-4d49-b526-1988edf39866",
+    "name": "GEEKY",
+    "date": "2015-01-19T02:13:56 -03:00",
+    "count": 47,
+    "distance": 8574
+  },
+  {
+    "guid": "97564511-3538-411c-a0e6-16670e8d376e",
+    "name": "JUMPSTACK",
+    "date": "2019-08-04T08:16:24 -03:00",
+    "count": 73,
+    "distance": 3440
+  },
+  {
+    "guid": "dc157f5f-5623-4e2a-9eb2-e71e7cc05202",
+    "name": "LUNCHPAD",
+    "date": "2020-08-05T11:55:38 -03:00",
+    "count": 58,
+    "distance": 9955
+  },
+  {
+    "guid": "d4e368c4-d72a-4068-8856-981455baf4a7",
+    "name": "DAISU",
+    "date": "2015-02-23T08:25:39 -03:00",
+    "count": 43,
+    "distance": 18
+  },
+  {
+    "guid": "3173c95d-c24e-4f6b-81ce-d5f66a87deb6",
+    "name": "MITROC",
+    "date": "2018-09-23T01:39:59 -03:00",
+    "count": 22,
+    "distance": 1762
+  },
+  {
+    "guid": "06b371b5-6c42-4a06-af56-3f7b00930460",
+    "name": "OZEAN",
+    "date": "2020-02-21T07:56:38 -03:00",
+    "count": 98,
+    "distance": 3897
+  },
+  {
+    "guid": "06029d9c-fd35-475c-94ce-473b8236d77f",
+    "name": "HALAP",
+    "date": "2019-12-25T02:09:36 -03:00",
+    "count": 54,
+    "distance": 2572
+  },
+  {
+    "guid": "be0972e8-2a47-4a09-bf3b-10c5886a57e0",
+    "name": "IMANT",
+    "date": "2017-11-20T09:44:05 -03:00",
+    "count": 14,
+    "distance": 3379
+  },
+  {
+    "guid": "6bdaa6aa-3cd0-4c1c-8217-fc5151296112",
+    "name": "TECHADE",
+    "date": "2020-11-09T06:25:08 -03:00",
+    "count": 9,
+    "distance": 7347
+  },
+  {
+    "guid": "c6b7b7e7-72e9-4575-8742-9f1ad0d9e602",
+    "name": "OVATION",
+    "date": "2019-02-24T07:18:15 -03:00",
+    "count": 46,
+    "distance": 7179
+  },
+  {
+    "guid": "4a543c78-f5bf-4863-8ea6-09e6228a4c11",
+    "name": "JASPER",
+    "date": "2021-05-29T07:31:27 -03:00",
+    "count": 76,
+    "distance": 2783
+  },
+  {
+    "guid": "0de38897-e774-46d4-b352-695d7f362782",
+    "name": "FROLIX",
+    "date": "2021-08-17T12:22:49 -03:00",
+    "count": 18,
+    "distance": 8327
+  },
+  {
+    "guid": "3e7d1899-add2-4d97-976e-9bf7fad72fd3",
+    "name": "SCENTRIC",
+    "date": "2020-09-14T09:03:40 -03:00",
+    "count": 8,
+    "distance": 5412
+  },
+  {
+    "guid": "3d25861e-4600-42fb-9819-951263976556",
+    "name": "ENQUILITY",
+    "date": "2017-05-14T05:25:49 -03:00",
+    "count": 81,
+    "distance": 6653
+  },
+  {
+    "guid": "1c6ae1b9-91ca-4d6f-a44c-ca2fe4c9af3e",
+    "name": "GRONK",
+    "date": "2018-10-28T09:33:50 -03:00",
+    "count": 49,
+    "distance": 2699
+  },
+  {
+    "guid": "552c7176-8080-4c45-8d5a-cb51101c7dfb",
+    "name": "BICOL",
+    "date": "2014-09-14T05:48:37 -04:00",
+    "count": 89,
+    "distance": 2327
+  },
+  {
+    "guid": "ae73e71a-b46e-449c-babc-c61b6c32479c",
+    "name": "UNCORP",
+    "date": "2014-01-02T06:15:25 -04:00",
+    "count": 65,
+    "distance": 4832
+  },
+  {
+    "guid": "82bed11c-8daf-4fac-a092-234730e51ceb",
+    "name": "CHORIZON",
+    "date": "2017-10-09T03:45:22 -03:00",
+    "count": 77,
+    "distance": 1228
+  },
+  {
+    "guid": "01d4fad8-b689-458a-9b8e-476ce500c241",
+    "name": "APPLIDEC",
+    "date": "2015-08-11T09:11:20 -03:00",
+    "count": 39,
+    "distance": 41
+  },
+  {
+    "guid": "3995df34-3ca6-4cde-baa8-40d9ebbd93bb",
+    "name": "NEWCUBE",
+    "date": "2022-03-06T08:24:30 -03:00",
+    "count": 44,
+    "distance": 2400
+  },
+  {
+    "guid": "33edf60e-5f55-4c81-9c15-9f097decdfab",
+    "name": "ZYTREX",
+    "date": "2019-09-29T07:07:11 -03:00",
+    "count": 89,
+    "distance": 8092
+  },
+  {
+    "guid": "84711e34-23b4-4c88-be0e-860a47a8784f",
+    "name": "LIQUICOM",
+    "date": "2020-03-11T01:19:58 -03:00",
+    "count": 80,
+    "distance": 478
+  },
+  {
+    "guid": "539f0376-d067-4a1a-b66b-98be225e185c",
+    "name": "THREDZ",
+    "date": "2020-02-26T04:39:19 -03:00",
+    "count": 13,
+    "distance": 3489
+  },
+  {
+    "guid": "6b42c660-9c19-47d8-ae8f-d41e574ebc01",
+    "name": "ZILLANET",
+    "date": "2019-05-23T03:52:07 -03:00",
+    "count": 67,
+    "distance": 6288
+  },
+  {
+    "guid": "eabf2f7c-4835-4164-be9b-3f56c946b27d",
+    "name": "MOLTONIC",
+    "date": "2020-02-02T04:08:50 -03:00",
+    "count": 62,
+    "distance": 3382
+  },
+  {
+    "guid": "bb902d9e-1b04-46e1-88aa-3e1de76eac00",
+    "name": "GAPTEC",
+    "date": "2020-03-12T05:48:21 -03:00",
+    "count": 27,
+    "distance": 8002
+  },
+  {
+    "guid": "e06bab0c-31be-43aa-9214-9f85443c2238",
+    "name": "PHORMULA",
+    "date": "2014-10-10T04:28:31 -04:00",
+    "count": 87,
+    "distance": 8303
+  },
+  {
+    "guid": "ccdad350-b80c-4e50-b678-64c98cb071e0",
+    "name": "XYMONK",
+    "date": "2015-03-01T05:34:18 -03:00",
+    "count": 63,
+    "distance": 5490
+  },
+  {
+    "guid": "b8d6c91c-d0ae-455a-955b-a632ae49e944",
+    "name": "QUILM",
+    "date": "2015-07-16T08:21:49 -03:00",
+    "count": 70,
+    "distance": 5768
+  },
+  {
+    "guid": "d9eb42e1-e028-4b08-b5a1-9f3c5f302376",
+    "name": "PATHWAYS",
+    "date": "2018-08-22T03:40:30 -03:00",
+    "count": 52,
+    "distance": 3166
+  },
+  {
+    "guid": "96701e8b-49b8-4623-aec3-1e794174a09a",
+    "name": "ECSTASIA",
+    "date": "2016-01-03T04:50:43 -03:00",
+    "count": 88,
+    "distance": 1723
+  },
+  {
+    "guid": "9ad79484-01c6-49b1-a9ed-5e4ed942ebe7",
+    "name": "HELIXO",
+    "date": "2015-01-01T06:32:29 -03:00",
+    "count": 39,
+    "distance": 9734
+  },
+  {
+    "guid": "10776714-bcba-4ba4-87dc-89ec90483807",
+    "name": "GEEKUS",
+    "date": "2019-06-19T06:30:33 -03:00",
+    "count": 5,
+    "distance": 7572
+  },
+  {
+    "guid": "924722f2-3838-44fe-ac16-ca310109e928",
+    "name": "COGENTRY",
+    "date": "2014-09-14T10:11:20 -04:00",
+    "count": 73,
+    "distance": 7806
+  },
+  {
+    "guid": "7edc13c4-db8d-4c6b-90ae-2f4240b00b00",
+    "name": "DAYCORE",
+    "date": "2020-06-17T06:02:00 -03:00",
+    "count": 59,
+    "distance": 3383
+  },
+  {
+    "guid": "1e7f0b56-6b50-47d2-b04a-27bfce211875",
+    "name": "KOOGLE",
+    "date": "2016-01-24T03:23:59 -03:00",
+    "count": 46,
+    "distance": 4192
+  },
+  {
+    "guid": "0c67c645-0a96-41ad-8c62-affa66bfd153",
+    "name": "UTARA",
+    "date": "2018-07-09T03:21:06 -03:00",
+    "count": 63,
+    "distance": 4042
+  },
+  {
+    "guid": "81d80412-9f1f-4911-b765-5b470fc6cca6",
+    "name": "DIGIPRINT",
+    "date": "2015-07-13T03:50:58 -03:00",
+    "count": 34,
+    "distance": 5022
+  },
+  {
+    "guid": "515a12be-e57f-4f47-9c35-d46976d25e01",
+    "name": "TWIIST",
+    "date": "2019-06-08T02:10:39 -03:00",
+    "count": 51,
+    "distance": 1112
+  },
+  {
+    "guid": "39a3020e-975f-4179-9495-7c8e74f92536",
+    "name": "PROXSOFT",
+    "date": "2021-01-26T09:22:21 -03:00",
+    "count": 43,
+    "distance": 4162
+  },
+  {
+    "guid": "9a7d0dba-a425-4172-a79e-3b09a979105a",
+    "name": "EYEWAX",
+    "date": "2018-01-20T11:31:27 -03:00",
+    "count": 56,
+    "distance": 3961
+  },
+  {
+    "guid": "5f11ba2d-8921-4fc7-acf0-65a7d1ebb4d4",
+    "name": "KIOSK",
+    "date": "2020-03-26T03:46:29 -03:00",
+    "count": 4,
+    "distance": 952
+  },
+  {
+    "guid": "7c53bc77-c6ad-42d0-b5c6-36f563cdc4d6",
+    "name": "UPDAT",
+    "date": "2015-03-30T05:38:21 -03:00",
+    "count": 16,
+    "distance": 1761
+  },
+  {
+    "guid": "1edb3fd4-f19c-4185-81ba-b3989c620dff",
+    "name": "DUOFLEX",
+    "date": "2019-11-22T04:42:10 -03:00",
+    "count": 19,
+    "distance": 2581
+  },
+  {
+    "guid": "44dd9c63-8d1d-481d-872b-7cec914ac3e9",
+    "name": "CYCLONICA",
+    "date": "2014-07-08T09:22:55 -04:00",
+    "count": 18,
+    "distance": 9920
+  },
+  {
+    "guid": "8020e154-0c83-4a21-a237-1900bdca2567",
+    "name": "BITTOR",
+    "date": "2022-06-04T05:07:02 -03:00",
+    "count": 69,
+    "distance": 1721
+  },
+  {
+    "guid": "aa92fc65-e305-41bd-93c7-5e7348e11f7f",
+    "name": "EXOZENT",
+    "date": "2017-09-21T01:02:56 -03:00",
+    "count": 79,
+    "distance": 8446
+  },
+  {
+    "guid": "9916f30f-6843-4354-a492-ac4ed87f6093",
+    "name": "CENTICE",
+    "date": "2018-02-10T05:44:52 -03:00",
+    "count": 92,
+    "distance": 9406
+  },
+  {
+    "guid": "e14700fd-c3dd-4202-80bc-867ffd115f1c",
+    "name": "PHOLIO",
+    "date": "2016-04-02T09:00:19 -03:00",
+    "count": 37,
+    "distance": 1307
+  },
+  {
+    "guid": "d1eb3e44-6def-4add-8277-c1d34cd9f494",
+    "name": "ANIVET",
+    "date": "2014-05-21T10:46:48 -04:00",
+    "count": 13,
+    "distance": 4403
+  },
+  {
+    "guid": "47c8b753-257d-4bbd-9eb0-86720e2a97b9",
+    "name": "ORGANICA",
+    "date": "2017-08-31T03:05:07 -03:00",
+    "count": 46,
+    "distance": 3342
+  },
+  {
+    "guid": "6541abcc-e666-431f-bf5c-3b9ecc29140c",
+    "name": "DRAGBOT",
+    "date": "2022-01-17T10:53:40 -03:00",
+    "count": 39,
+    "distance": 7111
+  },
+  {
+    "guid": "c598e579-b62f-42de-ba73-521a764641fb",
+    "name": "FUELWORKS",
+    "date": "2020-02-20T09:05:26 -03:00",
+    "count": 88,
+    "distance": 2528
+  },
+  {
+    "guid": "2e173c9f-62f8-4517-a28f-1bf1d5f3f3e2",
+    "name": "ZOLAVO",
+    "date": "2014-10-30T08:24:52 -03:00",
+    "count": 5,
+    "distance": 6345
+  },
+  {
+    "guid": "0dd15551-9f61-4db9-a88c-b118d8758689",
+    "name": "FRENEX",
+    "date": "2020-01-14T09:02:49 -03:00",
+    "count": 29,
+    "distance": 6293
+  },
+  {
+    "guid": "e9398d46-84ff-49a8-aa85-161ad530dea4",
+    "name": "INTRADISK",
+    "date": "2016-09-13T01:10:50 -03:00",
+    "count": 83,
+    "distance": 6383
+  },
+  {
+    "guid": "6cc969cc-854a-4e2b-a5ac-72360ed50d35",
+    "name": "STEELFAB",
+    "date": "2020-11-10T12:37:14 -03:00",
+    "count": 47,
+    "distance": 3938
+  },
+  {
+    "guid": "b6c34cdc-55dd-4ea7-99e3-fc9835e84a47",
+    "name": "MOMENTIA",
+    "date": "2019-09-03T10:38:51 -03:00",
+    "count": 57,
+    "distance": 6028
+  },
+  {
+    "guid": "8f06a777-cb45-4a1d-b8d8-8e0e2133dfa4",
+    "name": "UNIWORLD",
+    "date": "2021-04-20T09:45:03 -03:00",
+    "count": 24,
+    "distance": 524
+  },
+  {
+    "guid": "a71afe04-e515-4613-a49a-51481d8853cb",
+    "name": "QNEKT",
+    "date": "2017-05-11T03:55:58 -03:00",
+    "count": 70,
+    "distance": 1523
+  },
+  {
+    "guid": "6a8b5e7a-3714-4971-ac9e-aab3582e1f41",
+    "name": "SPORTAN",
+    "date": "2014-11-22T08:11:58 -03:00",
+    "count": 57,
+    "distance": 1840
+  },
+  {
+    "guid": "3a6eca81-ba95-4d3c-86aa-ff2d0b504951",
+    "name": "SINGAVERA",
+    "date": "2021-07-18T06:34:35 -03:00",
+    "count": 42,
+    "distance": 8894
+  },
+  {
+    "guid": "fa869896-efcc-4025-9652-e132783b40b2",
+    "name": "ROTODYNE",
+    "date": "2020-06-21T05:04:16 -03:00",
+    "count": 87,
+    "distance": 2048
+  },
+  {
+    "guid": "f4a69f45-defc-4723-bfe3-8df98706825f",
+    "name": "IMPERIUM",
+    "date": "2016-05-28T05:03:32 -03:00",
+    "count": 16,
+    "distance": 6353
+  },
+  {
+    "guid": "eb12aae1-71d3-4e55-aed7-3d14d7f9ba84",
+    "name": "ANIMALIA",
+    "date": "2018-06-06T10:08:38 -03:00",
+    "count": 6,
+    "distance": 9279
+  },
+  {
+    "guid": "781e0c1b-377d-43c9-9854-a23580862059",
+    "name": "BESTO",
+    "date": "2015-08-05T01:49:20 -03:00",
+    "count": 77,
+    "distance": 6729
+  },
+  {
+    "guid": "618e851b-7790-47b3-8fc1-74a7db526d52",
+    "name": "QUILITY",
+    "date": "2014-10-13T01:26:15 -04:00",
+    "count": 71,
+    "distance": 3266
+  },
+  {
+    "guid": "6500cf59-8a28-43f5-9241-33bc8f37f735",
+    "name": "PYRAMI",
+    "date": "2016-12-03T07:11:53 -03:00",
+    "count": 83,
+    "distance": 2650
+  },
+  {
+    "guid": "d901e5d0-da57-48ad-a20c-d40cdd197fd7",
+    "name": "JAMNATION",
+    "date": "2017-08-08T06:35:50 -03:00",
+    "count": 1,
+    "distance": 647
+  },
+  {
+    "guid": "7f5b702d-ae5f-48a9-8534-65ba36fab030",
+    "name": "BLURRYBUS",
+    "date": "2018-03-27T11:22:29 -03:00",
+    "count": 9,
+    "distance": 70
+  },
+  {
+    "guid": "efa6b9e3-1e1a-4eef-a3e0-8f024c64c5fb",
+    "name": "MARQET",
+    "date": "2016-05-27T11:57:52 -03:00",
+    "count": 47,
+    "distance": 2107
+  },
+  {
+    "guid": "6b15a2fc-8864-4130-8ddb-86a0fa14e5cc",
+    "name": "MALATHION",
+    "date": "2021-06-14T05:47:36 -03:00",
+    "count": 75,
+    "distance": 9859
+  },
+  {
+    "guid": "466bf32f-91b8-4e58-842f-411dfe339edb",
+    "name": "CAXT",
+    "date": "2022-01-21T06:01:53 -03:00",
+    "count": 6,
+    "distance": 9453
+  },
+  {
+    "guid": "61105abb-92f8-4a07-b8f9-f9b1817753eb",
+    "name": "GLOBOIL",
+    "date": "2020-01-19T08:46:32 -03:00",
+    "count": 3,
+    "distance": 8382
+  }
+]
